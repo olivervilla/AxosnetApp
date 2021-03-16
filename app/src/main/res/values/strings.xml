@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Axosnet</string>
+    <string name="list_name">Axosnet Receipts</string>
+    <string name="create_receipt">Add a new Receipt</string>
+    <string name="uptade_receipt">Update Receipt</string>
+    <string name="details_receipt">Details</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">Cancel</string>
+</resources>
